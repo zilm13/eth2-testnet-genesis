@@ -1,4 +1,4 @@
-module github.com/protolambda/eth2-testnet-genesis
+module github.com/zilm13/eth2-testnet-genesis
 
 go 1.16
 
