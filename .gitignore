@@ -24,3 +24,6 @@ genesis.ssz
 venv
 
 *.ssz
+
+# IDEA
+.idea/
