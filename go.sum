@@ -558,6 +558,8 @@ github.com/protolambda/ask v0.0.5/go.mod h1:UEXk+8VL3EIkVTfI3j21uFv47fZFxk0Q1PwX
 github.com/protolambda/messagediff v1.4.0/go.mod h1:LboJp0EwIbJsePYpzh5Op/9G1/4mIztMRYzzwR0dR2M=
 github.com/protolambda/zrnt v0.15.1 h1:AuF2XFqvktmbABkswEvurAyvHRNaJsTSeFvx+5K6Jhw=
 github.com/protolambda/zrnt v0.15.1/go.mod h1:99Kf8o4zIhSwx/G05jcnoxWdA9GalyofmmennKbsKBk=
+github.com/protolambda/zrnt v0.15.2-0.20210622130830-2b7ba5730584 h1:YiUmsHUunNE/0jq6G6XG8gQbk2Fig6W+Y6cdwZPcEAk=
+github.com/protolambda/zrnt v0.15.2-0.20210622130830-2b7ba5730584/go.mod h1:99Kf8o4zIhSwx/G05jcnoxWdA9GalyofmmennKbsKBk=
 github.com/protolambda/ztyp v0.1.4 h1:Kxn8W4ncsCs4ha27PRfyMLKRrfJkPdZYw4UV9yKqbw8=
 github.com/protolambda/ztyp v0.1.4/go.mod h1:u9yT4ioIokwlHrOfiZ52ezHfKdza3phxhTJix01vGgU=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
